@@ -1,4 +1,4 @@
-for j = 1, 10 do
+for j = 1, 5 do
 	hl.workspace_rule({
 		workspace = j,
 		persistent = true,
