@@ -5,7 +5,7 @@ require("env")
 require("exec")
 require("input")
 require("layout")
--- require("misc")
+require("misc")
 require("monitors")
 require("rules")
 
