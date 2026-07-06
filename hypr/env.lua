@@ -18,16 +18,8 @@ hl.env("CLUTTER_BACKEND", "wayland")
 hl.env("TERM", "kitty")
 hl.env("TERMINAL", "kitty")
 hl.env("ELECTRON_OZONE_PLATFORM_HINT", "auto")
--- hl.env("HYPRCURSOR_THEME", "HyprBibataModernClassicSVG")
--- hl.env("HYPRCURSOR_SIZE", "24")
--- hl.env("XCURSOR_THEME", "Bibata-Modern-Classic")
--- hl.env("XCURSOR_SIZE", "24")
 hl.env("QT_QPA_PLATFORMTHEME", "qt6ct")
 hl.env("STEAM_FORCE_DESKTOPUI_SCALING", "1")
-
--- Nvidia
--- hl.env("__GL_VRR_ALLOWED", "1")
--- hl.env("__GL_GSYNC_ALLOWED", "1")
 
 hl.env("LIBVA_DRIVER_NAME", "nvidia")
 hl.env("GBM_BACKEND", "nvidia-drm")
