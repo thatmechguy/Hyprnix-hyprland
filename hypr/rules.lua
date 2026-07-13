@@ -60,7 +60,7 @@ hl.window_rule({
 
 hl.window_rule({
 	match = {
-		class = ".*vlc.*|.*blender.*|.*steam_app_.*|.*qemu.*|affinity|.*krita.*",
+		class = ".*vlc.*|.*blender.*|.*steam_app_.*|.*virt-manager.*|.*qemu.*|affinity|.*krita.*",
 	},
 	opaque = true,
 	no_blur = true,
