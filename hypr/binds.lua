@@ -75,6 +75,7 @@ hl.bind(mod .. " + mouse:273", hl.dsp.window.resize(), { mouse = true })
 -- hl.bind("switch:on:Lid Switch", hl.dsp.exec_cmd(ipc .. " lockScreen lock"), { locked = true })
 
 hl.bind("switch:on:Lid Switch", hl.dsp.exec_cmd(noc .. " session lock"), { locked = true })
+hl.bind("switch:on:Lid Switch", hl.dsp.exec_cmd("powerprofilesctl set balanced"), { locked = true })
 
 
 hl.bind("SUPER + F12", function()
