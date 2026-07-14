@@ -1,5 +1,6 @@
 #### Necessary packages:
 - nautilus
+- hyprland
 - noctalia v5
 - btop
 - kitty
@@ -7,6 +8,8 @@
 - helium-web-browser
 
 [Noctalia v5 Installation](https://docs.noctalia.dev/v5/getting-started/installation/)
+[Noctalia Greeter Installation](https://github.com/noctalia-dev/noctalia-greeter)
+[Hyprland Installtion](https://wiki.hypr.land/Getting-Started/Installation/)
 
 #### Default Keybinds:
 - **SUPER + D** = Open Menu / Launcher
