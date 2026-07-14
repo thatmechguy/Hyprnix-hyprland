@@ -1,3 +1,13 @@
+#### Necessary packages:
+- nautilus
+- noctalia v5
+- btop
+- kitty
+- noctalia-greeter
+- helium-web-browser
+
+[Noctalia v5 Installation](https://docs.noctalia.dev/v5/getting-started/installation/)
+
 #### Default Keybinds:
 - **SUPER + D** = Open Menu / Launcher
 - **SUPER + E** = Open File Manager (Nautilus)
