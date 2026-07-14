@@ -1,3 +1,6 @@
+#### Screenshot:
+![screenshot](screenshot_20260714_103642.png)
+
 #### Necessary packages:
 - nautilus
 - hyprland
