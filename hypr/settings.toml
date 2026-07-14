@@ -136,7 +136,7 @@ panel_open_near_click = true
 panel_placement = "attached"
 
 [plugin_settings."noctalia/wallhaven"]
-api_key = "kNHBMsmSX6H1uZkv1ssZ42bYQhOtogii"
+api_key = ""
 download_dir = "~/Pictures/Wallpapers"
 
 [plugins]
